@@ -21,8 +21,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub)
+- Live Site URL: https://order-summary-component-two-pied.vercel.app/
 
 ## My process
 
@@ -39,6 +39,5 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Frontend Mentor](https://www.frontendmentor.io) -I'd recommend this to anyone trying to lay their hands on projects.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - @Ademide07
 
